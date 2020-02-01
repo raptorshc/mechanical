@@ -1,0 +1,78 @@
+STEP translation to Solid Edge
+Date: Saturday,February 01,2020 01:41PM
+Source File: C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pixhawk.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2012
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+Operating System: Windows 8
+Installed Memory: 7.84 GB
+
+Software Information
+Parasolid Version: 30.1.256
+PSBodyShop Version: 30.1.94
+Step Adapter Version: 4.0.40
+Solid Edge Version: 219.00.01.006 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pixhawk.asm
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pixhawk APM.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-3P-1.25DSA.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-5P-1.25DSA.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-6P-1.25DSA.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-7P-1.25DSA.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-4P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-4P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-5P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-6P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-6P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-6P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-6P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-3P-1.25DSA.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-2P-1.25DSA.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\DF13-3P-1.25DSA.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\pan head cross recess screw_iso_ISO 7045 - M1.6 x 3 - Z --- 3N.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\pan head cross recess screw_iso_ISO 7045 - M1.6 x 3 - Z --- 3N.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\pan head cross recess screw_iso_ISO 7045 - M1.6 x 3 - Z --- 3N.par
+|--+Reusing File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\pan head cross recess screw_iso_ISO 7045 - M1.6 x 3 - Z --- 3N.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\micro USB.asm
+|  |--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\micro usb02.par
+|  |--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\micro usb.par
+|--+Total Parts: 14
+|--+Assemblies: 0
+|--+Solid Bodies: 12
+|--+Sheet Bodies: 2
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pièce10^Pixhawk.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pièce11^Pixhawk.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pièce12^Pixhawk.par
+|--+Created SE Part File C:\Users\lsp00\Documents\GIT Kraken\mechanical\Phoenix\BoardMounts\Pièce13^Pixhawk.par
++Total Parts: 44
++Assemblies: 1
++Solid Bodies: 23
++Sheet Bodies: 20
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 25
