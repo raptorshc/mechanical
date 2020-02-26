@@ -1,0 +1,17 @@
+﻿Report Name: D:\Project\RAPTOR\Thunderbird\report.txt
+Report Time: 2/26/2020 12:23:49 AM
+Report Options:
+    Part Names
+
+Select Set #1:
+    Scaffolding_V2_Nguyen.par:1
+
+Select Set #2:
+    Nosecone_V2.par:1
+
+Interferences:
+    1 of 1
+    Scaffolding_V2_Nguyen.par:1
+    Nosecone_V2.par:1
+
+    1 Interferences Detected
